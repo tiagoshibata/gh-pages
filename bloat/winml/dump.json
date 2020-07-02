@@ -1,0 +1,2016 @@
+var kTree = {
+  "children": [
+    {
+      "data": {
+        "$area": 604
+      },
+      "name": "[unknown] (0.59KB)",
+      "children": [
+      ]
+    },
+    {
+      "data": {
+        "$area": 889935
+      },
+      "name": "c: (869.08KB)",
+      "children": [
+        {
+          "data": {
+            "$area": 59911
+          },
+          "name": "program (58.51KB)",
+          "children": [
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 52517
+              },
+              "name": "program (51.29KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 2134
+              },
+              "name": "program (2.08KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 7
+              },
+              "name": "program (0.01KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 259
+              },
+              "name": "program (0.25KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 87
+              },
+              "name": "program (0.08KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 87
+              },
+              "name": "program (0.08KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 2039
+              },
+              "name": "program (1.99KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 11
+              },
+              "name": "program (0.01KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 1562
+              },
+              "name": "program (1.53KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 2821
+              },
+              "name": "program (2.75KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 726
+              },
+              "name": "program (0.71KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 55
+              },
+              "name": "program (0.05KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 1471
+              },
+              "name": "program (1.44KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 2864
+              },
+              "name": "program (2.80KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 76
+              },
+              "name": "program (0.07KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 433
+              },
+              "name": "program (0.42KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 170
+              },
+              "name": "program (0.17KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 32
+              },
+              "name": "program (0.03KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 2022
+              },
+              "name": "program (1.97KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 138
+              },
+              "name": "program (0.13KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 136
+              },
+              "name": "program (0.13KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 33
+              },
+              "name": "program (0.03KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 8228
+              },
+              "name": "program (8.04KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 4
+              },
+              "name": "program (0.00KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 9701
+              },
+              "name": "program (9.47KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 289
+              },
+              "name": "program (0.28KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 5761
+              },
+              "name": "program (5.63KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 195
+              },
+              "name": "program (0.19KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 2238
+              },
+              "name": "program (2.19KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 5217
+              },
+              "name": "program (5.09KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 3808
+              },
+              "name": "program (3.72KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 7394
+              },
+              "name": "program (7.22KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 7394
+              },
+              "name": "program (7.22KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 7394
+              },
+              "name": "program (7.22KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 7394
+              },
+              "name": "program (7.22KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 331
+              },
+              "name": "program (0.32KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 201
+              },
+              "name": "program (0.20KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 130
+              },
+              "name": "program (0.13KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 99
+              },
+              "name": "program (0.10KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 8
+              },
+              "name": "program (0.01KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 91
+              },
+              "name": "program (0.09KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 1216
+              },
+              "name": "program (1.19KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 1216
+              },
+              "name": "program (1.19KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 5748
+              },
+              "name": "program (5.61KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 5748
+              },
+              "name": "program (5.61KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 210
+              },
+              "name": "program (0.21KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 4626
+              },
+              "name": "program (4.52KB)",
+              "children": [
+              ]
+            },
+            {
+              "data": {
+                "$area": 912
+              },
+              "name": "program (0.89KB)",
+              "children": [
+              ]
+            },
+          ]
+        },
+        {
+          "data": {
+            "$area": 830024
+          },
+          "name": "users (810.57KB)",
+          "children": [
+            {
+              "data": {
+                "$area": 830024
+              },
+              "name": "tiago (810.57KB)",
+              "children": [
+                {
+                  "data": {
+                    "$area": 830024
+                  },
+                  "name": "src (810.57KB)",
+                  "children": [
+                    {
+                      "data": {
+                        "$area": 830024
+                      },
+                      "name": "onnxruntime (810.57KB)",
+                      "children": [
+                        {
+                          "data": {
+                            "$area": 323603
+                          },
+                          "name": "build (316.02KB)",
+                          "children": [
+                            {
+                              "data": {
+                                "$area": 323603
+                              },
+                              "name": "relwithdebinfo (316.02KB)",
+                              "children": [
+                                {
+                                  "data": {
+                                    "$area": 270817
+                                  },
+                                  "name": "winml (264.47KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 270817
+                                      },
+                                      "name": "sdk (264.47KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 270817
+                                          },
+                                          "name": "cppwinrt (264.47KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 270817
+                                              },
+                                              "name": "include (264.47KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 270817
+                                                  },
+                                                  "name": "winrt (264.47KB)",
+                                                  "children": [
+                                                    {
+                                                      "data": {
+                                                        "$area": 266131
+                                                      },
+                                                      "name": "base.h (259.89KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 114
+                                                      },
+                                                      "name": "windows.foundation.collections.h (0.11KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 2895
+                                                      },
+                                                      "name": "windows.foundation.h (2.83KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 83
+                                                      },
+                                                      "name": "windows.graphics.directx.direct3d11.h (0.08KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 451
+                                                      },
+                                                      "name": "windows.graphics.imaging.h (0.44KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 575
+                                                      },
+                                                      "name": "windows.media.h (0.56KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 568
+                                                      },
+                                                      "name": "windows.storage.streams.h (0.55KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                                {
+                                  "data": {
+                                    "$area": 52786
+                                  },
+                                  "name": "winml_api (51.55KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 52786
+                                      },
+                                      "name": "comp_generated (51.55KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "imagefeaturedescriptor.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 123
+                                          },
+                                          "name": "imagefeaturevalue.g.h (0.12KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "learningmodel.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "learningmodelbinding.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "learningmodeldevice.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "learningmodelevaluationresult.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "learningmodelsession.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "learningmodelsessionoptions.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "mapfeaturedescriptor.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 34625
+                                          },
+                                          "name": "module.g.excl.cpp (33.81KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "sequencefeaturedescriptor.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorboolean.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensordouble.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorfeaturedescriptor.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorfloat.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorfloat16bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorint16bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorint32bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorint64bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorint8bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensorstring.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensoruint16bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensoruint32bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensoruint64bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 91
+                                          },
+                                          "name": "tensoruint8bit.g.h (0.09KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 15945
+                                          },
+                                          "name": "winrt (15.57KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 15945
+                                              },
+                                              "name": "microsoft.ai.machinelearning.h (15.57KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                              ]
+                            },
+                          ]
+                        },
+                        {
+                          "data": {
+                            "$area": 15031
+                          },
+                          "name": "cmake (14.68KB)",
+                          "children": [
+                            {
+                              "data": {
+                                "$area": 15031
+                              },
+                              "name": "external (14.68KB)",
+                              "children": [
+                                {
+                                  "data": {
+                                    "$area": 15031
+                                  },
+                                  "name": "wil (14.68KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 15031
+                                      },
+                                      "name": "include (14.68KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 15031
+                                          },
+                                          "name": "wil (14.68KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 25
+                                              },
+                                              "name": "common.h (0.02KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 1249
+                                              },
+                                              "name": "cppwinrt.h (1.22KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 180
+                                              },
+                                              "name": "resource.h (0.18KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 5398
+                                              },
+                                              "name": "result.h (5.27KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 8157
+                                              },
+                                              "name": "result_macros.h (7.97KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 22
+                                              },
+                                              "name": "wistd_functional.h (0.02KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                              ]
+                            },
+                          ]
+                        },
+                        {
+                          "data": {
+                            "$area": 755
+                          },
+                          "name": "onnxruntime (0.74KB)",
+                          "children": [
+                            {
+                              "data": {
+                                "$area": 755
+                              },
+                              "name": "core (0.74KB)",
+                              "children": [
+                                {
+                                  "data": {
+                                    "$area": 755
+                                  },
+                                  "name": "providers (0.74KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 755
+                                      },
+                                      "name": "dml (0.74KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 755
+                                          },
+                                          "name": "dmlexecutionprovider (0.74KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 755
+                                              },
+                                              "name": "src (0.74KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 755
+                                                  },
+                                                  "name": "external (0.74KB)",
+                                                  "children": [
+                                                    {
+                                                      "data": {
+                                                        "$area": 755
+                                                      },
+                                                      "name": "d3dx12 (0.74KB)",
+                                                      "children": [
+                                                        {
+                                                          "data": {
+                                                            "$area": 755
+                                                          },
+                                                          "name": "d3dx12.h (0.74KB)",
+                                                          "children": [
+                                                          ]
+                                                        },
+                                                      ]
+                                                    },
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                              ]
+                            },
+                          ]
+                        },
+                        {
+                          "data": {
+                            "$area": 490635
+                          },
+                          "name": "winml (479.14KB)",
+                          "children": [
+                            {
+                              "data": {
+                                "$area": 1104
+                              },
+                              "name": "dll (1.08KB)",
+                              "children": [
+                                {
+                                  "data": {
+                                    "$area": 1104
+                                  },
+                                  "name": "module.cpp (1.08KB)",
+                                  "children": [
+                                  ]
+                                },
+                              ]
+                            },
+                            {
+                              "data": {
+                                "$area": 489531
+                              },
+                              "name": "lib (478.06KB)",
+                              "children": [
+                                {
+                                  "data": {
+                                    "$area": 86556
+                                  },
+                                  "name": "api.image (84.53KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 2372
+                                      },
+                                      "name": "converterresourcestore.cpp (2.32KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 3968
+                                      },
+                                      "name": "cpudetensorizer.h (3.88KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 3296
+                                      },
+                                      "name": "cputensorizer.h (3.22KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 38190
+                                      },
+                                      "name": "d3ddevicecache.cpp (37.29KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 1053
+                                      },
+                                      "name": "devicehelpers.cpp (1.03KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 4635
+                                      },
+                                      "name": "imageconversionhelpers.cpp (4.53KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 3585
+                                      },
+                                      "name": "imageconverter.cpp (3.50KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 663
+                                      },
+                                      "name": "inc (0.65KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 663
+                                          },
+                                          "name": "converterresourcestore.h (0.65KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 14295
+                                      },
+                                      "name": "tensortovideoframeconverter.cpp (13.96KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 14499
+                                      },
+                                      "name": "videoframetotensorconverter.cpp (14.16KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                  ]
+                                },
+                                {
+                                  "data": {
+                                    "$area": 82087
+                                  },
+                                  "name": "api.ort (80.16KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 1517
+                                      },
+                                      "name": "onnxruntimecpusessionbuilder.cpp (1.48KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 10367
+                                      },
+                                      "name": "onnxruntimedescriptorconverter.cpp (10.12KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 2202
+                                      },
+                                      "name": "onnxruntimedmlsessionbuilder.cpp (2.15KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 54656
+                                      },
+                                      "name": "onnxruntimeengine.cpp (53.38KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 1440
+                                      },
+                                      "name": "onnxruntimeenginebuilder.cpp (1.41KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 3400
+                                      },
+                                      "name": "onnxruntimeenvironment.cpp (3.32KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 116
+                                      },
+                                      "name": "onnxruntimeerrors.h (0.11KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 8389
+                                      },
+                                      "name": "onnxruntimemodel.cpp (8.19KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                  ]
+                                },
+                                {
+                                  "data": {
+                                    "$area": 314048
+                                  },
+                                  "name": "api (306.69KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 14623
+                                      },
+                                      "name": "featurevalues.h (14.28KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 960
+                                      },
+                                      "name": "imagefeaturedescriptor.cpp (0.94KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 17078
+                                      },
+                                      "name": "imagefeaturevalue.cpp (16.68KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 202040
+                                      },
+                                      "name": "impl (197.30KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 11775
+                                          },
+                                          "name": "featurecompatibility.h (11.50KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 9603
+                                          },
+                                          "name": "mapbase.h (9.38KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 42562
+                                          },
+                                          "name": "sequencebase.h (41.56KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 3355
+                                          },
+                                          "name": "tensor.h (3.28KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 127340
+                                          },
+                                          "name": "tensorbase.h (124.36KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 173
+                                          },
+                                          "name": "tensorbuffer.h (0.17KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 507
+                                          },
+                                          "name": "tensorkindfrom.h (0.50KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 6725
+                                          },
+                                          "name": "tensormemorybufferreference.h (6.57KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 10878
+                                      },
+                                      "name": "learningmodel.cpp (10.62KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 49614
+                                      },
+                                      "name": "learningmodelbinding.cpp (48.45KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 2068
+                                      },
+                                      "name": "learningmodeldevice.cpp (2.02KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 1821
+                                      },
+                                      "name": "learningmodelevaluationresult.cpp (1.78KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 12625
+                                      },
+                                      "name": "learningmodelsession.cpp (12.33KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 17
+                                      },
+                                      "name": "learningmodelsessionoptions.cpp (0.02KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 575
+                                      },
+                                      "name": "mapfeaturedescriptor.cpp (0.56KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 420
+                                      },
+                                      "name": "sequencefeaturedescriptor.cpp (0.41KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 1329
+                                      },
+                                      "name": "tensorfeaturedescriptor.cpp (1.30KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                  ]
+                                },
+                                {
+                                  "data": {
+                                    "$area": 4552
+                                  },
+                                  "name": "common (4.45KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 1191
+                                      },
+                                      "name": "commondevicehelpers.cpp (1.16KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 3361
+                                      },
+                                      "name": "inc (3.28KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 286
+                                          },
+                                          "name": "commondevicehelpers.h (0.28KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 1054
+                                          },
+                                          "name": "errors.h (1.03KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 586
+                                          },
+                                          "name": "pheonixsingleton.h (0.57KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 1234
+                                          },
+                                          "name": "stringhelpers.h (1.21KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 23
+                                          },
+                                          "name": "winml_lock.h (0.02KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 178
+                                          },
+                                          "name": "winmltelemetryhelper.h (0.17KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                                {
+                                  "data": {
+                                    "$area": 2288
+                                  },
+                                  "name": "telemetry (2.23KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 96
+                                      },
+                                      "name": "telemetry.cpp (0.09KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 984
+                                      },
+                                      "name": "telemetryevent.cpp (0.96KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 1208
+                                      },
+                                      "name": "winmltelemetryhelper.cpp (1.18KB)",
+                                      "children": [
+                                      ]
+                                    },
+                                  ]
+                                },
+                              ]
+                            },
+                          ]
+                        },
+                      ]
+                    },
+                  ]
+                },
+              ]
+            },
+          ]
+        },
+      ]
+    },
+    {
+      "data": {
+        "$area": 7422
+      },
+      "name": "d: (7.25KB)",
+      "children": [
+        {
+          "data": {
+            "$area": 7422
+          },
+          "name": "a01 (7.25KB)",
+          "children": [
+            {
+              "data": {
+                "$area": 7422
+              },
+              "name": "_work (7.25KB)",
+              "children": [
+                {
+                  "data": {
+                    "$area": 7422
+                  },
+                  "name": "6 (7.25KB)",
+                  "children": [
+                    {
+                      "data": {
+                        "$area": 7422
+                      },
+                      "name": "s (7.25KB)",
+                      "children": [
+                        {
+                          "data": {
+                            "$area": 7422
+                          },
+                          "name": "src (7.25KB)",
+                          "children": [
+                            {
+                              "data": {
+                                "$area": 390
+                              },
+                              "name": "externalapis (0.38KB)",
+                              "children": [
+                                {
+                                  "data": {
+                                    "$area": 70
+                                  },
+                                  "name": "unifiedcrt (0.07KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 70
+                                      },
+                                      "name": "inc (0.07KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 8
+                                          },
+                                          "name": "corecrt_stdio_config.h (0.01KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 62
+                                          },
+                                          "name": "stdlib.h (0.06KB)",
+                                          "children": [
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                                {
+                                  "data": {
+                                    "$area": 320
+                                  },
+                                  "name": "windows (0.31KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 320
+                                      },
+                                      "name": "10 (0.31KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 320
+                                          },
+                                          "name": "sdk (0.31KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 320
+                                              },
+                                              "name": "inc (0.31KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 320
+                                                  },
+                                                  "name": "stralign.h (0.31KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                              ]
+                            },
+                            {
+                              "data": {
+                                "$area": 7032
+                              },
+                              "name": "vctools (6.87KB)",
+                              "children": [
+                                {
+                                  "data": {
+                                    "$area": 7032
+                                  },
+                                  "name": "crt (6.87KB)",
+                                  "children": [
+                                    {
+                                      "data": {
+                                        "$area": 177
+                                      },
+                                      "name": "github (0.17KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 177
+                                          },
+                                          "name": "stl (0.17KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 177
+                                              },
+                                              "name": "src (0.17KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 176
+                                                  },
+                                                  "name": "locale0.cpp (0.17KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 1
+                                                  },
+                                                  "name": "nothrow.cpp (0.00KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                    {
+                                      "data": {
+                                        "$area": 6855
+                                      },
+                                      "name": "vcstartup (6.69KB)",
+                                      "children": [
+                                        {
+                                          "data": {
+                                            "$area": 64
+                                          },
+                                          "name": "inc (0.06KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 64
+                                              },
+                                              "name": "vcstartup_internal.h (0.06KB)",
+                                              "children": [
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                        {
+                                          "data": {
+                                            "$area": 6791
+                                          },
+                                          "name": "src (6.63KB)",
+                                          "children": [
+                                            {
+                                              "data": {
+                                                "$area": 27
+                                              },
+                                              "name": "defaults (0.03KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 27
+                                                  },
+                                                  "name": "default_local_stdio_options.cpp (0.03KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 592
+                                              },
+                                              "name": "eh (0.58KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 156
+                                                  },
+                                                  "name": "ehvecctr.cpp (0.15KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 343
+                                                  },
+                                                  "name": "ehvecdtr.cpp (0.33KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 51
+                                                  },
+                                                  "name": "std_type_info_static.cpp (0.05KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 42
+                                                  },
+                                                  "name": "tncleanup.cpp (0.04KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 2227
+                                              },
+                                              "name": "gs (2.17KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 281
+                                                  },
+                                                  "name": "amd64 (0.27KB)",
+                                                  "children": [
+                                                    {
+                                                      "data": {
+                                                        "$area": 34
+                                                      },
+                                                      "name": "amdsecgs.asm (0.03KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 120
+                                                      },
+                                                      "name": "gshandler.cpp (0.12KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 127
+                                                      },
+                                                      "name": "gshandlereh4.cpp (0.12KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 1774
+                                                  },
+                                                  "name": "gs_report.c (1.73KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 172
+                                                  },
+                                                  "name": "gs_support.c (0.17KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 198
+                                              },
+                                              "name": "heap (0.19KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 5
+                                                  },
+                                                  "name": "delete_scalar.cpp (0.00KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 5
+                                                  },
+                                                  "name": "delete_scalar_size.cpp (0.00KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 5
+                                                  },
+                                                  "name": "new_array.cpp (0.00KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 60
+                                                  },
+                                                  "name": "new_scalar.cpp (0.06KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 19
+                                                  },
+                                                  "name": "new_scalar_nothrow.cpp (0.02KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 104
+                                                  },
+                                                  "name": "throw_bad_alloc.cpp (0.10KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 1272
+                                              },
+                                              "name": "misc (1.24KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 537
+                                                  },
+                                                  "name": "amd64 (0.52KB)",
+                                                  "children": [
+                                                    {
+                                                      "data": {
+                                                        "$area": 82
+                                                      },
+                                                      "name": "chkstk.asm (0.08KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 445
+                                                      },
+                                                      "name": "cpu_disp.c (0.43KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 3
+                                                      },
+                                                      "name": "guard_dispatch.asm (0.00KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                    {
+                                                      "data": {
+                                                        "$area": 7
+                                                      },
+                                                      "name": "guard_xfg_dispatch.asm (0.01KB)",
+                                                      "children": [
+                                                      ]
+                                                    },
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 40
+                                                  },
+                                                  "name": "guard_support.c (0.04KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 695
+                                                  },
+                                                  "name": "thread_safe_statics.cpp (0.68KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 152
+                                              },
+                                              "name": "rtc (0.15KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 152
+                                                  },
+                                                  "name": "initsect.cpp (0.15KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 990
+                                              },
+                                              "name": "startup (0.97KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 990
+                                                  },
+                                                  "name": "dll_dllmain.cpp (0.97KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                            {
+                                              "data": {
+                                                "$area": 1333
+                                              },
+                                              "name": "utility (1.30KB)",
+                                              "children": [
+                                                {
+                                                  "data": {
+                                                    "$area": 8
+                                                  },
+                                                  "name": "dyn_tls_init.c (0.01KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 12
+                                                  },
+                                                  "name": "ucrt_detection.c (0.01KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 4
+                                                  },
+                                                  "name": "ucrt_stubs.cpp (0.00KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 967
+                                                  },
+                                                  "name": "utility.cpp (0.94KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                                {
+                                                  "data": {
+                                                    "$area": 342
+                                                  },
+                                                  "name": "utility_desktop.cpp (0.33KB)",
+                                                  "children": [
+                                                  ]
+                                                },
+                                              ]
+                                            },
+                                          ]
+                                        },
+                                      ]
+                                    },
+                                  ]
+                                },
+                              ]
+                            },
+                          ]
+                        },
+                      ]
+                    },
+                  ]
+                },
+              ]
+            },
+          ]
+        },
+      ]
+    },
+  ],
+  "data": {
+    "$area": 897961
+  },
+  "name": "full (876.92KB)"
+};
